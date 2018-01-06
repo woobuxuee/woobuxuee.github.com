@@ -1,0 +1,8 @@
+name: 艾肯战士天下第一
+url: http://example.org
+description: 写的是不是废话你心里没点数
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
